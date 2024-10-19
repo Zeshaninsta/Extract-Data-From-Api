@@ -143,7 +143,7 @@ export default function ProductDetail() {
                 >
                   Buy Now
                 </button>
-                <button className="bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold p-3 rounded-lg transition duration-300 ease-in-out">
+                <button className="hidden md:block bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold p-3 rounded-lg transition duration-300 ease-in-out">
                   <FaRegHeart size={24} />
                 </button>
               </div>
