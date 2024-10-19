@@ -1,0 +1,102 @@
+{
+    "adverts_list": {
+        "mode_default": "gallery",
+        "count": 1599,
+        "adverts": [
+            {
+                "admin_info": {},
+                "as_top": false,
+                "attrs": [],
+                "badge_info": {
+                    "label": "VIP TOP+",
+                    "slug": "booster_vip",
+                    "bg_color": "#00B53F",
+                    "text_color": "#ffffff",
+                    "aside_color": "#229826",
+                    "service_type": "boost"
+                },
+                "booster_info": {
+                    "type": "vip",
+                    "count": 1
+                },
+                "can_view_contacts": true,
+                "category_id": 250,
+                "category_name": "Baby & Kids' Accessories",
+                "category_slug": "babies-and-kids-accessories",
+                "count_images": 3,
+                "details": "Multifunction piano fitness rack mat",
+                
+                
+                "guid": "ajTWHIgC6vz45LN6ktJPAoyM",
+                "id": 1704440,
+                "image_obj": {
+                    "url": "https://startsoon.com/5787587_MzAwLTMwMC04OWY0ODEyZTk5.webp",
+                    "center": null
+                },
+                "images": [
+                    {
+                        "url": "https://startsoon.com/5787587_MzAwLTMwMC04OWY0ODEyZTk5.webp",
+                        "center": null,
+                        "size": [
+                            300,
+                            300
+                        ]
+                    },
+                    {
+                        "url": "https://startsoon.com/5787588_MzAwLTMwMC02Y2Y5Mzg0N2Q0.webp",
+                        "center": null,
+                        "size": [
+                            300,
+                            300
+                        ]
+                    },
+                    {
+                        "url": "https://startsoon.com/5787589_MzAwLTMwMC01MjJmMmQwYzJm.webp",
+                        "center": null,
+                        "size": [
+                            300,
+                            300
+                        ]
+                    }
+                ],
+                "images_count": 3,
+                "is_boost": "vip",
+                "is_cv": false,
+                "is_inspected": false,
+                "is_job": false,
+                "is_owner": false,
+                "is_top": false,
+                "labels": [],
+                "message_url": "/profile-messages/509633_1704440",
+                "paid_info": {
+                    "text": "Promoted",
+                    "package_type": "vip",
+                    "border": "#FEA03C",
+                    "icon": true,
+                    "more_photos": true,
+                    "package_title": "VIP"
+                },
+                "price_obj": {
+                    "value": 3500,
+                    "view": "ETB 3,500",
+                    "period": null,
+                    "bulk": null,
+                    "type": null
+                },
+                "price_title": "ETB 3,500",
+                "region": "Addis Ababa, Bole",
+                "region_id": 15,
+                "region_item_text": "Addis Ababa, Bole",
+                "region_name": "Bole",
+                "region_parent_name": "Addis Ababa",
+                "region_slug": "bole",
+                "short_description": "Multifunction piano fitness rack mat",
+                "slug": "multifunction-piano-fitness-rack-mat",
+                "status": "active",
+                "title": "Multifunction Piano Fitness Rack Mat",
+                "title_labels": [],
+                "tops_count": 0,
+                "user_id": 509633,
+                "user_phone": "0969781818"
+            }]}
+        }

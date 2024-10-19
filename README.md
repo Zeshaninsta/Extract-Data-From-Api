@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# API Tool
 
-## Getting Started
+API Tool is a web application designed to simplify your API workflow by providing easy-to-use tools for extracting and visualizing API data.
 
-First, run the development server:
+## Table of Contents
 
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+API Tool offers two main functionalities:
+
+1. **API Data Extraction**
+   - Support for multiple API types (RESTful, GraphQL, and more)
+   - Custom header configuration
+   - Authentication support
+
+2. **API Data Visualization**
+   - Interactive charts and tables
+   - Real-time data updates
+   - Customizable views
+   - Data export options
+
+## Installation
+
+Clone the repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/yourusername/api-tool.git
+```
+Navigate to the project directory
+```bash
+cd api-tool
+```
+Install dependencies
+```bash
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Start the development server
+```bash
+npm run dev
+```
+To set up the project locally, follow these steps:
+## Usage
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+After starting the development server, open your browser and navigate to `http://localhost:3000`. You'll see the home page with two main options:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. **Extract API Data**: Click on this card to access the API Extractor tool. Here you can configure and extract data from various APIs.
 
-## Learn More
+2. **Display API Data**: This section allows you to visualize and analyze the extracted API data using interactive charts and tables.
 
-To learn more about Next.js, take a look at the following resources:
+## Contributing
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+We welcome contributions to the API Tool project. If you have suggestions for improvements or bug fixes, please follow these steps:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/AmazingFeature`)
+3. Make your changes
+4. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+5. Push to the branch (`git push origin feature/AmazingFeature`)
+6. Open a Pull Request
 
-## Deploy on Vercel
+## License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
